@@ -1,0 +1,16 @@
+{
+  "name": "ums_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "dev": "nodemon App.js",
+    "start": "node App.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^6.2.1",
+    "express": "^4.17.1"
+  }
+}
